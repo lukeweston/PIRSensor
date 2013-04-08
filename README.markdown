@@ -3,4 +3,4 @@ PIR motion sensor board. Uses the common RE200B pyroelectric sensor in TO-5 can 
 
 PCB layout rendering example:   
 
- ![](https://github.com/lukeweston/PyroelectricSensor/raw/master/PyroelectricSensor-pcb.png)
+ ![](https://github.com/lukeweston/PIRSensor/raw/master/PyroelectricSensor-pcb.png)
